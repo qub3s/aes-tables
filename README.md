@@ -1,2 +1,1 @@
-# aes-tables
-tables implementation of aes
+Implementation of AES, heavily based on the goland standart Implementation.
